@@ -1,0 +1,28 @@
+.headerpart {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 90%;
+	margin: 0 auto;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #f7ce68;
+	position: sticky;
+}
+.log img {
+	height: 150px;
+}
+nav a {
+	text-decoration: none;
+	color: black;
+	font-weight: 500;
+	font-size: 30px;
+	margin: 0 40px;
+	padding: 10px 10px;
+}
+nav a:hover {
+	background-color: #f7cf6800;
+	border: 1px solid goldenrod;
+	color: white;
+	border-radius: 10px;
+}

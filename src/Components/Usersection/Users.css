@@ -1,0 +1,57 @@
+.card {
+	background-color: #2c2c34;
+	width: 250px;
+	padding: 5px;
+	margin: 20px 10px;
+	border-radius: 20px;
+	box-shadow: 10px 10px 10px black;
+}
+.imageandName {
+	text-align: center;
+	margin: 1px 0;
+}
+.imageandName img {
+	border-radius: 100px;
+	border: 5px solid #e3ab17;
+}
+.infoheader {
+	width: 100px;
+	text-align: center;
+	margin: 4px 10px;
+	background-color: goldenrod;
+	border-radius: 3px;
+}
+#name {
+	color: #ad9657;
+}
+.infoheader h4 {
+	margin: 1px 0;
+	padding: 2px;
+}
+.infoText {
+	color: white;
+	margin: 0 10%;
+}
+
+footer {
+	background-color: goldenrod;
+	border-radius: 3px;
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.787);
+	display: flex;
+	justify-content: center;
+	padding: 4px;
+	height: 20px;
+}
+button {
+	background-color: #f37024;
+	color: aliceblue;
+	border: none;
+	border-radius: 20%;
+	padding: 2px 8px;
+}
+
+button:hover {
+	background-color: #f3702400;
+	border: 3px solid #f37024;
+	cursor: pointer;
+}
